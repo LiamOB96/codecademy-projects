@@ -1,2 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# IDE files (PyCharm / IntelliJ)
 .idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+>>>>>>> 19f6bde (update .gitignore)
